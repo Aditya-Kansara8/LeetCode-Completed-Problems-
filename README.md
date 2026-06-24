@@ -19,5 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0094-binary-tree-inorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
