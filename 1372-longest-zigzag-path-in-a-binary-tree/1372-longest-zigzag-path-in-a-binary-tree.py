@@ -7,14 +7,13 @@
 class Solution:
     def longestZigZag(self, root: Optional[TreeNode]) -> int:
         maxl = 0
-        def zig(n,d,l):
+        def zig(n, left, right):
             nonlocal maxl
             if n is None:
-                return 0
-            maxl = max(maxl,l)
-            zig(n.right,1, l+1 if d == 0 else 1)
-            zig(n.left,0, l+1 if d == 1 else 1)
-        zig(root.left,0,1)
-        zig(root.right,1,1)
+                return
+            maxl = max(maxl, left, right)
+            zig(n.left, right + 1, 0)
+            zig(n.right, 0, left + 1)
+        zig(root, 0, 0)
         return maxl
 
