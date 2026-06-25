@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
