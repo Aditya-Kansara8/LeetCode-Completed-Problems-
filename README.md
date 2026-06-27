@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0700-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0997-find-the-town-judge) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0997-find-the-town-judge) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Aditya-Kansara8/LeetCode-Completed-Problems-/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
